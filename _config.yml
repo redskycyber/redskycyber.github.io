@@ -16,29 +16,30 @@ timezone:
 
 title: Red Sky Cyber Blog
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Red sky in morning, sailor’s warning. Red sky at night, sailor’s delight. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  My goal is to facilitate the sharing of cybersecurity resources, especially those in the realm of cloud security, cloud penetration testing, and cloud red teaming. This way, you can learn, grow, and develop your skills and confidence to become the very best professionals you can be.
+
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://redskycyber.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: redskycyber # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+#twitter:
+#  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Mike Dame
+  email: mdpentest@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+#    - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -96,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/redskycyber300x300.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
