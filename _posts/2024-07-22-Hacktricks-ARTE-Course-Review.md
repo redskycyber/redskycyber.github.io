@@ -1,6 +1,6 @@
 ---
 title: Hacktricks ARTE Course Review
-date: 2023-07-22
+date: 2024-07-22
 categories: [AWS, COURSE_REVIEW]
 tags: [aws, pentesting, cert, arte]
 ---
