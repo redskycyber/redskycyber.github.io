@@ -1,8 +1,8 @@
 ---
-title: CloudBreach - Breaching AWS (CAWSP) Review
+title: CloudBreach - Breaching AWS (OAWSP) Review
 date: 2024-09-05
 categories: [AWS, COURSE_REVIEW]
-tags: [aws, pentesting, cert, CAWSP]
+tags: [aws, pentesting, cert, OAWSP]
 ---
 
 # My Experience with Breaching AWS
@@ -96,7 +96,7 @@ In my case, I completed the exam in about 6.5 hours, with the report taking anot
 
 ## Pricing
 
-The course offers three pricing tiers based on the number of lab days and additional content. For most, 30 days of lab time should be enough to complete the objectives and prepare for the exam. Depending on how much study time you have and whether you want the extended "AWS+" material (which includes videos), the tier options are flexible.
+The course offers three pricing tiers based on the number of lab days and additional content for lifetime access to the material. For most, 30 days of lab time should be enough to complete the objectives and prepare for the exam. Depending on how much study time you have and whether you want the extended "AWS+" material (which includes videos), the tier options are flexible.
 
 [Pricing Information](https://cloudbreach.io/breachingaws/#pricing)
 
@@ -110,7 +110,7 @@ I thoroughly enjoyed the "Breaching AWS" course. The content was well-organized,
 
 > - [x] Complete all the labs.  
 > - [x] Try the labs on your own before relying on the solutions.  
-> - [x] Take detailed notes and screenshots as course access expires after your time window.
+> - [x] Take detailed notes and screenshots as lab access expires after your time window.
 
 {: .prompt-tip }
 
